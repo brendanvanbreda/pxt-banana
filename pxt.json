@@ -2,6 +2,7 @@
     "name": "pxt-banana",
     "version": "0.1.0",
     "description": "test pxt package",
+	"icon":./icon.png
     "license": "MIT",
     "dependencies": {
         "core": "*",

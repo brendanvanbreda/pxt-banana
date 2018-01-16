@@ -1,4 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
+  <variables></variables>
+  <block type="pxt-on-start" id="v^;*KQa?gG@I:@eQvNtU" x="20" y="20"></block>
+  <block type="device_forever" id="O?q?WhC6fgcKuvrVJ+yE" x="120" y="20"></block>
 </xml>

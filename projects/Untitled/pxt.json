@@ -3,7 +3,6 @@
     "dependencies": {
         "core": "*",
         "radio": "*"
-        
     },
     "description": "",
     "files": [
